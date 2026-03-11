@@ -4,9 +4,9 @@
   # Senior Software Engineer
   ### Building High-Scale Distributed Systems & AI-Driven Logic 🚀
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-darkgreen?style=for-the-badge&logo=googlechrome)](#)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](#)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashwinisinghh)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-darkgreen?style=for-the-badge&logo=googlechrome)](https://www.linkedin.com/in/ashwinisinghh)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://www.linkedin.com/in/ashwinisinghh)
 </div>
 
 <br/>
@@ -89,6 +89,6 @@ Experienced Senior SDE with a passion for architecting robust, scalable systems 
 ## 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwini-singhh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwini-singhh&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
