@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="header.png" width="100%" alt="Header Banner" />
-  
   # Senior Software Engineer
   ### Building High-Scale Distributed Systems & AI-Driven Logic 🚀
   
